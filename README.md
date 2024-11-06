@@ -1,3 +1,7 @@
+
+![server](https://github.com/user-attachments/assets/504e6993-f72f-4e60-bc9d-75e153b1070b)
+
+
 # Wazuh-SIEM-Setup-Debian12-Proxmox
 
 ![image](https://github.com/user-attachments/assets/d586c690-25af-434e-ac20-f7fdb5993659)
