@@ -1,5 +1,8 @@
 # Wazuh-SIEM-Setup-Debian12-Proxmox
 
+![image](https://github.com/user-attachments/assets/d586c690-25af-434e-ac20-f7fdb5993659)
+
+
 ## **Setting up the virtual machine on proxmox**
 
 ![Screenshot 2024-11-01 204234](https://github.com/user-attachments/assets/7117abca-5a7d-4295-8fad-b2367bc0a71e)
