@@ -15,6 +15,7 @@ Just tick the box for Qemu Agent in the System pane; everything else should be l
 
 Determining the power requirements of our SIEM server is the next step. Although we will make a small adjustment, the following figures are recommended by the documentation.
 
+![image](https://github.com/user-attachments/assets/aa39ba26-0e06-47e6-9f68-96ac8e2733f8)
 
 
 
@@ -93,6 +94,7 @@ I previously mentioned that the time zone selection is restricted by the country
 
 Next, you have the option of selecting either a guided or manual approach to configuring the disk for your Debian installation. I recommend that you select the first option, ```Guided - use entire disk``` .
 
+![image](https://github.com/user-attachments/assets/40c27021-a643-431f-b2a6-c3da142492cd)
 
 Three more steps of single-select-and-continue workflows are coming up. The first step is to choose a disk; assuming you've been following along so far, you should only have one disk accessible. Pick that option and go on.
 
@@ -150,12 +152,18 @@ It is possible to connect to the virtual machine (VM) without the desktop enviro
 Selecting "yes" in response to the next question will enable you to configure the grub boot loader, the last stage.
 
 
+![image](https://github.com/user-attachments/assets/57d88cc1-da8a-499a-8092-be22edc884ed)
 
 
 
 
 
 The final stage in installing Debian is to install the boot loader on the one and only disk we have.
+
+![image](https://github.com/user-attachments/assets/8e4d0398-51fe-4c55-b96c-e768bd3bb839)
+
+![image](https://github.com/user-attachments/assets/ac8aa62c-1c49-488e-a32d-e3f8c0074e88)
+
 
 Start again and log in using the account you created before.
 
